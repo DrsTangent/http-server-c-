@@ -1,0 +1,7 @@
+/home/ali/projects/First-Http-Server/build/CMakeFiles/first-http-server.dir
+/home/ali/projects/First-Http-Server/build/CMakeFiles/edit_cache.dir
+/home/ali/projects/First-Http-Server/build/CMakeFiles/rebuild_cache.dir
+/home/ali/projects/First-Http-Server/build/CMakeFiles/list_install_components.dir
+/home/ali/projects/First-Http-Server/build/CMakeFiles/install.dir
+/home/ali/projects/First-Http-Server/build/CMakeFiles/install/local.dir
+/home/ali/projects/First-Http-Server/build/CMakeFiles/install/strip.dir

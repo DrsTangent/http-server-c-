@@ -1,0 +1,38 @@
+[CMake]
+Build Directory Count=1
+Current Build Directory Index-Host System=0
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=/home/ali/projects/First-Http-Server/build
+Build Type=Debug
+CMake Binary=/usr/bin/cmake
+CMake Executable=/usr/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=/usr/local
+Runtime=Host System
+
+[Launch]
+Launch Configurations=Launch Configuration 0
+
+[Launch][Launch Configuration 0]
+Configured Launch Modes=execute
+Configured Launchers=nativeAppLauncher
+Name=first-http-server
+Type=Native Application
+
+[Launch][Launch Configuration 0][Data]
+Arguments=
+Dependencies=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x02\x00\x00\x00"\x00F\x00i\x00r\x00s\x00t\x00-\x00H\x00t\x00t\x00p\x00-\x00S\x00e\x00r\x00v\x00e\x00r\x00\x00\x00"\x00f\x00i\x00r\x00s\x00t\x00-\x00h\x00t\x00t\x00p\x00-\x00s\x00e\x00r\x00v\x00e\x00r)
+Dependency Action=Build
+EnvironmentGroup=
+Executable=file:///home/ali/projects/First-Http-Server
+External Terminal=konsole --noclose --workdir %workdir -e %exe
+Kill Before Executing Again=4194304
+Project Target=First-Http-Server,first-http-server
+Use External Terminal=false
+Working Directory=
+isExecutable=false
+
+[Project]
+VersionControlSupport=kdevgit

@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/ali/projects/First-Http-Server/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/first-http-server.dir/main.cpp.o -c /home/ali/projects/First-Http-Server/main.cpp",
+  "file": "/home/ali/projects/First-Http-Server/main.cpp",
+  "output": "CMakeFiles/first-http-server.dir/main.cpp.o"
+},
+{
+  "directory": "/home/ali/projects/First-Http-Server/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/first-http-server.dir/Server.cpp.o -c /home/ali/projects/First-Http-Server/Server.cpp",
+  "file": "/home/ali/projects/First-Http-Server/Server.cpp",
+  "output": "CMakeFiles/first-http-server.dir/Server.cpp.o"
+},
+{
+  "directory": "/home/ali/projects/First-Http-Server/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/first-http-server.dir/Router.cpp.o -c /home/ali/projects/First-Http-Server/Router.cpp",
+  "file": "/home/ali/projects/First-Http-Server/Router.cpp",
+  "output": "CMakeFiles/first-http-server.dir/Router.cpp.o"
+}
+]

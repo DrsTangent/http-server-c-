@@ -1,6 +1,7 @@
-#include <iostream>
+#include "Server.h"
 
-int main(int argc, char **argv) {
-    std::cout << "Hello, world!" << std::endl;
+int main() {
+    Server server(8000);
+    server.start();
     return 0;
 }
